@@ -1,0 +1,395 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.092708,
+     29.706999
+    ]
+   },
+   "properties": {
+    "city": "Deer Park"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.269023,
+     29.798591
+    ]
+   },
+   "properties": {
+    "city": "Houston1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.075801,
+     29.390748
+    ]
+   },
+   "properties": {
+    "city": "Hungerford"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.905556,
+     30.064458
+    ]
+   },
+   "properties": {
+    "city": "Waller"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.09128,
+     30.354701
+    ]
+   },
+   "properties": {
+    "city": "Cleveland"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.369817,
+     29.797437
+    ]
+   },
+   "properties": {
+    "city": "Houston2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.498411,
+     30.436694
+    ]
+   },
+   "properties": {
+    "city": "Willis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.182736,
+     31.728217
+    ]
+   },
+   "properties": {
+    "city": "Fairfield"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.543987,
+     32.287637
+    ]
+   },
+   "properties": {
+    "city": "Alma"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.69378,
+     32.623952
+    ]
+   },
+   "properties": {
+    "city": "Hutchins"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.839275,
+     32.640809
+    ]
+   },
+   "properties": {
+    "city": "Dallas1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.754979,
+     32.655868
+    ]
+   },
+   "properties": {
+    "city": "Dallas2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.179456,
+     33.263072
+    ]
+   },
+   "properties": {
+    "city": "Denton"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.093528,
+     32.00952
+    ]
+   },
+   "properties": {
+    "city": "Hillsboro"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.312105,
+     31.191227
+    ]
+   },
+   "properties": {
+    "city": "Troy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.617826,
+     29.31101
+    ]
+   },
+   "properties": {
+    "city": "San Antonio1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.84545,
+     29.184729
+    ]
+   },
+   "properties": {
+    "city": "Natalia"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.617826,
+     29.31101
+    ]
+   },
+   "properties": {
+    "city": "San Antonio2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.361512,
+     29.448396
+    ]
+   },
+   "properties": {
+    "city": "San Antonio3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.032623,
+     29.797963
+    ]
+   },
+   "properties": {
+    "city": "Baytown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.881907,
+     29.779813
+    ]
+   },
+   "properties": {
+    "city": "Katy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.77705,
+     29.69051
+    ]
+   },
+   "properties": {
+    "city": "Weimar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.592282,
+     29.653691
+    ]
+   },
+   "properties": {
+    "city": "Luling"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.034476,
+     29.560811
+    ]
+   },
+   "properties": {
+    "city": "Seguin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.903241,
+     29.98203
+    ]
+   },
+   "properties": {
+    "city": "Comfort"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.585636,
+     30.571142
+    ]
+   },
+   "properties": {
+    "city": "Sonora"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.852146,
+     30.893377
+    ]
+   },
+   "properties": {
+    "city": "Fort Stockton"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.819253,
+     31.040102
+    ]
+   },
+   "properties": {
+    "city": "Van Horn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.237409,
+     31.65976
+    ]
+   },
+   "properties": {
+    "city": "El Paso"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.581219,
+     31.997879
+    ]
+   },
+   "properties": {
+    "city": "Anthony"
+   }
+  }
+ ]
+}
